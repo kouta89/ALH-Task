@@ -1,4 +1,7 @@
 public class Task2{
+	
+	//課題1-2の回答です。
+	
 	public static void main(String[] args){
 		
 		//最終的な合計値を記録する変数
